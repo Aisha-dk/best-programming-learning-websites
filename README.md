@@ -3,6 +3,5 @@
 One-page website showing top programming learning platforms.
 
 ## Preview
-
 ![Homepage](interfaces-1/homepage.png)
 ![Hover](interfaces-2/hover.png)
